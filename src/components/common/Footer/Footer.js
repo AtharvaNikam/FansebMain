@@ -41,7 +41,7 @@ export default function Footer() {
               >
                 {" "}
                 <a
-                  href="http://localhost:3002/register"
+                  href="http://app.fanseb.com/register"
                 >
                   Join Fanseb
                 </a>
